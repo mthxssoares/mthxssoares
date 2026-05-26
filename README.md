@@ -20,6 +20,8 @@ Sou apaixonado por tecnologia, principalmente pelas áreas de Cibersegurança e 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" width="55">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" width="55">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" width="55">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" width="55">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45" width="55">
 </div>
 
 ---
@@ -31,8 +33,9 @@ Sou apaixonado por tecnologia, principalmente pelas áreas de Cibersegurança e 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" width="55">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" width="55">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" width="55">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" width="55">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45" width="55">
 </div>
-
 ---
 
 ## 📚 Áreas de Interesse
