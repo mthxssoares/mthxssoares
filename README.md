@@ -11,6 +11,13 @@
 Sou apaixonado por tecnologia, principalmente pelas áreas de Cibersegurança e Garantia de Qualidade (QA), buscando constantemente aprimorar meus conhecimentos em segurança, testes e qualidade de software.
 
 ---
+
+## 🎓 Formação
+
+* Bacharelado em Ciência da Computação
+
+---
+
 ## 🧪 QA & Testing
 
 <div style="display: inline_block">
