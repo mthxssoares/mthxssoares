@@ -46,6 +46,7 @@ Sou apaixonado por tecnologia, principalmente pelas áreas de Cibersegurança e 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" width="55">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45" width="55">
 </div>
+
 ---
 
 ## 📚 Áreas de Interesse
@@ -72,6 +73,7 @@ Sou apaixonado por tecnologia, principalmente pelas áreas de Cibersegurança e 
   </a>
 
 </div>
+
 ---
 
 ## 📫 Contato
