@@ -29,6 +29,9 @@ Sou apaixonado por tecnologia, principalmente pelas áreas de Cibersegurança e 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" width="55">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" width="55">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45" width="55">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cucumber.svg" height="45" width="55">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appium.svg" height="45" width="55">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="45" width="55">
 </div>
 
 ---
