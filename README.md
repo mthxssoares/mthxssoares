@@ -59,20 +59,19 @@ Sou apaixonado por tecnologia, principalmente pelas áreas de Cibersegurança e 
 
 <div style="display: inline_block">
 
-  <a href="https://github.com/stars/Matheus686/lists/academic-projects" target="_blank">
+  <a href="https://github.com/stars/mthxssoares/lists/academic-projects" target="_blank">
     <img src="https://img.shields.io/badge/Projetos%20Acadêmicos-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <a href="https://github.com/stars/Matheus686/lists/cybersecurity" target="_blank">
+  <a href="https://github.com/stars/mthxssoares/lists/cybersecurity" target="_blank">
     <img src="https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=linux&logoColor=white">
   </a>
 
-  <a href="https://github.com/stars/Matheus686/lists/qa-testing" target="_blank">
+  <a href="https://github.com/stars/mthxssoares/lists/qa-testing" target="_blank">
     <img src="https://img.shields.io/badge/QA%20%26%20Testes-2EA44F?style=for-the-badge&logo=cypress&logoColor=white">
   </a>
 
 </div>
-
 ---
 
 ## 📫 Contato
