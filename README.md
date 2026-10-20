@@ -2,8 +2,8 @@
 
 ### 💻 Ciência da Computação | 🧪 Quality Assurance | 🛡️ Cybersecurity
 
-🧪 Estagiário de Quality Assurance (QA)  
-🔐 Interesse em Cybersecurity  
+🧪 Analista de Qualidade de Software Júnior | Testes de Software e Qualidade de Sistemas
+🔐 Estudando Cybersecurity | Segurança da Informação
 
 ---
 
