@@ -3,6 +3,7 @@
 ### 💻 Ciência da Computação | 🧪 Quality Assurance | 🛡️ Cybersecurity
 
 🧪 Analista de Qualidade de Software Júnior | Testes de Software e Qualidade de Sistemas
+
 🔐 Estudando Cybersecurity | Segurança da Informação
 
 ---
